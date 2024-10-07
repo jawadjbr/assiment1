@@ -1,0 +1,28 @@
+.name  {
+
+    color: blueviolet;
+    text-align: center;
+}
+
+.abaut {
+    text-align: center;
+}
+
+.card-group {
+    display: flex;
+    justify-content: space-around; 
+    flex-wrap: wrap; 
+    margin: 20px; 
+  }
+  
+  .card {
+    margin: 10px; 
+    flex: 1 1 300px; 
+    max-width: 300px; 
+  }
+  
+  
+  .lableoffavorite{
+    margin-top: 30px; 
+  }
+  
